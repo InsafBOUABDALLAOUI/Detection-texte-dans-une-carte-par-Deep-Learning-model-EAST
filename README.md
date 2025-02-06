@@ -18,7 +18,7 @@ La détection automatique des textes sur cartes est un défi en raison de plusie
 **Variabilité des styles** : police, taille, orientation, couleur, crénage, casse, etc.
 **Contexte graphique** : confusion possible avec des éléments adjacents (routes, bâtiments, arrière-plans).
 
-## Approche adoptée : **Deep Learning** model FOST
+## Approche adoptée : **Deep Learning** model EAST
 Les méthodes d’apprentissage profond (deep learning) se sont révélées performantes et plus flexibles que les procédés traditionnels pour la détection de texte. Cependant, les modèles existants sont souvent entraînés pour détecter du texte sur des photographies, ce qui limite leur efficacité sur des cartes, qui possèdent leurs propres caractéristiques.
 
 ## Question de recherche
